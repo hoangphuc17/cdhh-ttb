@@ -20,7 +20,7 @@ itsdangerous==0.24
 Jinja2==2.9.6
 MarkupSafe==1.0
 ndg-httpsclient==0.4.2
-numpy==1.13.3
+numpy==1.22.0
 pyasn1==0.3.3
 pycparser==2.18
 pymongo==3.5.1
